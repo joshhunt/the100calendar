@@ -11,9 +11,12 @@ html,
 .game {
   /* opacity: 0.4; */
   transition: opacity 150ms ease-in-out;
+  background: #3498db;
 }
 
 .gameIsFull {
+  background: #1abc9c !important;
+  border-color: #16a085 !important;
   /* background: #80a4c3 !important; */
   /* border-color: #80a4c3 !important; */
   /* background: #e74c3c */
